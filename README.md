@@ -1,35 +1,61 @@
-<div align="center">
+# 🚀 Hi there, I'm Tani Lawal  
 
-# 👋 Hi, I'm Tani  
-**Fullstack Developer | AI Enthusiast | Problem Solver**
+**`Robotics & AI Developer | CS & Robotics Student`**  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+clean%2C+modern+apps;Turning+ideas+into+products;Lifelong+learner)
-
----
-
-### 📊 GitHub Overview  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tani-lawal&show_icons=true&theme=radical&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=tani-lawal&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)  
+I build **AI-powered applications**, work on **robotics software**, and tinker with everything from **fullstack web apps** to **automation scripts**.  
+Currently working on my **Autonomous Navigation System** as my final-year project.  
 
 ---
 
-### 🏆 Achievements  
-![trophy](https://github-profile-trophy.vercel.app/?username=tani-lawal&theme=radical&no-frame=true&row=1&column=6)
+## 📌 About Me
+- 🎓 **B.Eng. Robotics & Automation + Computer Science**
+- 🤖 Passionate about **robotics software development**
+- 💡 Interests: AI, NLP, microservices, and embedded systems
+- 🌍 Based in **Lagos, Nigeria**
+- 🛠 Currently learning **Go** and **advanced robotics simulation**
 
 ---
 
-### 🛠 Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8)  
-![Supabase](https://img.shields.io/badge/Supabase-1A1A1A?style=flat&logo=supabase&logoColor=3ECF8E)  
+## 🧩 Tech Stack
+
+**Languages**  
+`Python` `JavaScript` `Go` `C`  
+
+**Frameworks & Tools**  
+`React` `Node.js` `Supabase` `MongoDB` `PostgreSQL`  
+`Docker` `MATLAB` `BeautifulSoup` `LangDetect`  
+
+**Specialties**  
+- NLP & AI Development  
+- Robotics Software Simulation  
+- Automation Scripts  
+- Web & Mobile Development  
 
 ---
 
-### 📫 Connect With Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+## 📂 Featured Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Language Detector** | Detects the language of given text | Python, langdetect |
+| **Collab Task Manager** | Real-time collaborative task app | React, Express, MongoDB |
+| **Budget Tracker App** | Mobile app for expense tracking | React Native |
+| **Autonomous Navigation Simulator** | 2D robot pathfinding with A* | Go |
 
-</div>
+---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tani-lawal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tani-lawal&theme=tokyonight" alt="GitHub Streak" height="150" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+- 📧 **tanilawal44@gmail.com**  
+- 💼 [LinkedIn](https://linkedin.com/in/tani-lawal)  
+ 
+
+---
+
+> *"Turning coffee into code, and ideas into reality."* ☕💻  
