@@ -19,11 +19,11 @@ Currently working on my **Autonomous Navigation System** as my final-year projec
 ## 🧩 Tech Stack
 
 **Languages**  
-`Python` `JavaScript` `Go` `C`  
+`Python` `JavaScript` `Go` `C` `C++` `Java` `HTML` `CSS` `TypeScript` `Bash` `SQL`  
 
 **Frameworks & Tools**  
 `React` `Node.js` `Supabase` `MongoDB` `PostgreSQL`  
-`Docker` `MATLAB` `BeautifulSoup` `LangDetect`  
+`Docker` `MATLAB` `BeautifulSoup` `LangDetect` `Express.js`  
 
 **Specialties**  
 - NLP & AI Development  
@@ -43,10 +43,17 @@ Currently working on my **Autonomous Navigation System** as my final-year projec
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tani-lawal&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tani-lawal&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tani-lawal&show_icons=true&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tani-lawal&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tani-lawal&theme=dracula&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -54,7 +61,6 @@ Currently working on my **Autonomous Navigation System** as my final-year projec
 ## 🤝 Let's Connect
 - 📧 **tanilawal44@gmail.com**  
 - 💼 [LinkedIn](https://linkedin.com/in/tani-lawal)  
- 
 
 ---
 
