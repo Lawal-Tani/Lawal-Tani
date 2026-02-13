@@ -6,12 +6,12 @@
 
 <!-- About Me -->
 ### 🌟 About Me  
-- 🎓 Studying **Computer Science** + **B.Eng in Robotics & Automation**  
-- 🤖 Passionate about **Robotics Software Development** & **AI**  
+- 🎓 Studying **B.Sc Computer Science** + **B.Eng in Robotics & Automation**  
+- 🤖 Passionate about **Software Development** & **AI**  
 - 🔭 Currently working on: **Autonomous Navigation System** & **Fullstack Projects**  
-- 🌱 Learning **Go**, **Node.js**, and **AI/ML**  
+- 🌱 Learning **Go** and **AI/ML**  
 - 🎯 Goal: Build impactful software & intelligent systems  
-- 💬 Ask me about: **NLP, Backend Dev, Automation**  
+- 💬 Ask me about: **NLP, Software Dev, Automation**  
 
 ---
 
